@@ -1,1 +1,8 @@
-# Python---Using-SQLite-to-analyze-socio-economic-data
+
+Analyzing data with SQlite
+
+In this Python project, I use SQLite to analyze socio-economic data from cityofchicago.org. The objective is to examine the hardship index in several Chicago communities and its correlation with variables such as unemployment rates, family size, income, education, and poverty. 
+
+-SQLite
+-Data exploration using SQL Magic Commands
+-Data visualization using seaborn plots.
