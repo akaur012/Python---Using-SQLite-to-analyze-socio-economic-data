@@ -6,3 +6,4 @@
 <p>-SQLite<p>
 <p>-Data exploration using SQL Magic Commands<p>
 <p>-Data visualization using seaborn plots.<p>
+
